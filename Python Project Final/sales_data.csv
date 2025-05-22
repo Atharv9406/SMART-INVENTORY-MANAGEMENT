@@ -1,0 +1,94 @@
+date,product_id,category,region,sales_amount,units_sold,promotion
+2020-01-01,P001,Electronics,North,5200,26,0
+2020-01-02,P001,Electronics,North,4800,24,0
+2020-01-03,P001,Electronics,North,5100,25,0
+2020-01-04,P001,Electronics,North,5300,27,0
+2020-01-05,P001,Electronics,North,6200,31,1
+2020-01-06,P001,Electronics,North,6500,33,1
+2020-01-07,P001,Electronics,North,5800,29,1
+2020-01-08,P001,Electronics,North,5200,26,0
+2020-01-09,P001,Electronics,North,5000,25,0
+2020-01-10,P001,Electronics,North,4900,24,0
+2020-01-11,P001,Electronics,North,5100,26,0
+2020-01-12,P001,Electronics,North,6300,32,1
+2020-01-13,P001,Electronics,North,6400,32,1
+2020-01-14,P001,Electronics,North,5900,30,1
+2020-01-15,P002,Clothing,South,3200,40,0
+2020-01-16,P002,Clothing,South,3100,39,0
+2020-01-17,P002,Clothing,South,3300,41,0
+2020-01-18,P002,Clothing,South,3400,43,0
+2020-01-19,P002,Clothing,South,4100,51,1
+2020-01-20,P002,Clothing,South,4300,54,1
+2020-01-21,P002,Clothing,South,3900,49,1
+2020-01-22,P002,Clothing,South,3300,41,0
+2020-01-23,P002,Clothing,South,3200,40,0
+2020-01-24,P002,Clothing,South,3100,39,0
+2020-01-25,P002,Clothing,South,3300,41,0
+2020-01-26,P002,Clothing,South,4200,53,1
+2020-01-27,P002,Clothing,South,4400,55,1
+2020-01-28,P002,Clothing,South,4000,50,1
+2020-01-29,P003,Home Goods,East,2800,14,0
+2020-01-30,P003,Home Goods,East,2700,13,0
+2020-01-31,P003,Home Goods,East,2900,15,0
+2020-02-01,P001,Electronics,North,5300,27,0
+2020-02-02,P001,Electronics,North,5100,25,0
+2020-02-03,P001,Electronics,North,5400,27,0
+2020-02-04,P001,Electronics,North,5600,28,0
+2020-02-05,P001,Electronics,North,6500,33,1
+2020-02-06,P001,Electronics,North,6800,34,1
+2020-02-07,P001,Electronics,North,6100,31,1
+2020-02-08,P001,Electronics,North,5400,27,0
+2020-02-09,P001,Electronics,North,5200,26,0
+2020-02-10,P001,Electronics,North,5100,25,0
+2020-02-11,P001,Electronics,North,5300,27,0
+2020-02-12,P001,Electronics,North,6600,33,1
+2020-02-13,P001,Electronics,North,6700,34,1
+2020-02-14,P001,Electronics,North,6200,31,1
+2020-02-15,P002,Clothing,South,3400,43,0
+2020-02-16,P002,Clothing,South,3300,41,0
+2020-02-17,P002,Clothing,South,3500,44,0
+2020-02-18,P002,Clothing,South,3600,45,0
+2020-02-19,P002,Clothing,South,4300,54,1
+2020-02-20,P002,Clothing,South,4500,56,1
+2020-02-21,P002,Clothing,South,4100,51,1
+2020-02-22,P002,Clothing,South,3500,44,0
+2020-02-23,P002,Clothing,South,3400,43,0
+2020-02-24,P002,Clothing,South,3300,41,0
+2020-02-25,P002,Clothing,South,3500,44,0
+2020-02-26,P002,Clothing,South,4400,55,1
+2020-02-27,P002,Clothing,South,4600,58,1
+2020-02-28,P002,Clothing,South,4200,53,1
+2020-02-29,P003,Home Goods,East,3000,15,0
+2020-03-01,P003,Home Goods,East,2900,14,0
+2020-03-02,P003,Home Goods,East,3100,16,0
+2020-03-03,P001,Electronics,North,5500,28,0
+2020-03-04,P001,Electronics,North,5300,27,0
+2020-03-05,P001,Electronics,North,5600,28,0
+2020-03-06,P001,Electronics,North,5800,29,0
+2020-03-07,P001,Electronics,North,6700,34,1
+2020-03-08,P001,Electronics,North,7000,35,1
+2020-03-09,P001,Electronics,North,6300,32,1
+2020-03-10,P001,Electronics,North,5600,28,0
+2020-03-11,P001,Electronics,North,5400,27,0
+2020-03-12,P001,Electronics,North,5300,27,0
+2020-03-13,P001,Electronics,North,5500,28,0
+2020-03-14,P001,Electronics,North,6800,34,1
+2020-03-15,P001,Electronics,North,6900,35,1
+2020-03-16,P001,Electronics,North,6400,32,1
+2020-03-17,P002,Clothing,South,3600,45,0
+2020-03-18,P002,Clothing,South,3500,44,0
+2020-03-19,P002,Clothing,South,3700,46,0
+2020-03-20,P002,Clothing,South,3800,48,0
+2020-03-21,P002,Clothing,South,4500,56,1
+2020-03-22,P002,Clothing,South,4700,59,1
+2020-03-23,P002,Clothing,South,4300,54,1
+2020-03-24,P002,Clothing,South,3700,46,0
+2020-03-25,P002,Clothing,South,3600,45,0
+2020-03-26,P002,Clothing,South,3500,44,0
+2020-03-27,P002,Clothing,South,3700,46,0
+2020-03-28,P002,Clothing,South,4600,58,1
+2020-03-29,P002,Clothing,South,4800,60,1
+2020-03-30,P002,Clothing,South,4400,55,1
+2020-03-31,P003,Home Goods,East,3200,16,0
+2020-04-01,P003,Home Goods,East,3100,16,0
+2020-04-02,P003,Home Goods,East,3300,17,0
